@@ -22,4 +22,8 @@ To normalize mental health conversations, break stigma, and create culturally co
 
 ## 🚀 Live Site
 
-Once deployed, the website will be available at:
+Once deployed, the website will be available at: strongrootscollective.org
+npm install
+npm start
+npm run build
+
